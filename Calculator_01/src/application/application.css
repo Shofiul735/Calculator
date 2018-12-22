@@ -1,0 +1,16 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#result{
+	-fx-background-color: #654949;
+	-fx-border-radius:10;
+	-fx-border-color: #0E0404;
+	-fx-text-fill: #fff;
+}
+VBox{
+	-fx-background-color: #776363;
+}
+Button{
+	-fx-border-color:#973636;
+	-fx-border-radius:10;
+	-fx-text-fill: #fff;
+	-fx-background-color: black;
+}
